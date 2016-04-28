@@ -1,6 +1,6 @@
 {
   "name": "px-alert-message",
-  "version": "0.3.4",
+  "version": "0.4.0",
   "main": [
     "px-alert-message.html"
   ],
@@ -27,14 +27,13 @@
     "px-starter-kit-design": "https://github.com/PredixDev/px-starter-kit-design.git#~0.4.0"
   },
   "homepage": "https://github.com/PredixDev/px-alert-message",
-  "_release": "0.3.4",
+  "_release": "0.4.0",
   "_resolution": {
     "type": "version",
-    "tag": "v0.3.4",
-    "commit": "f97da4a9a2b40a5b6136b79f3f71098abfa19bba"
+    "tag": "v0.4.0",
+    "commit": "d06bcab57d013da759289dbe2cae925c93eb2136"
   },
   "_source": "https://github.com/PredixDev/px-alert-message.git",
-  "_target": "v0.3.4",
-  "_originalSource": "px-alert-message",
-  "_direct": true
+  "_target": "*",
+  "_originalSource": "px-alert-message"
 }
