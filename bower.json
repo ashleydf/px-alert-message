@@ -1,6 +1,6 @@
 {
   "name": "px-alert-message",
-  "version": "v0.5.2",
+  "version": "v0.5.4",
   "main": [
     "px-alert-message.html"
   ],
@@ -11,7 +11,8 @@
     "sass",
     "bower_components",
     "node_modules",
-    "test"
+    "test",
+    "OSS_Notice.pdf"
   ],
   "dependencies": {
     "iron-flex-layout": "PolymerElements/iron-flex-layout#~1.0.3",
@@ -25,9 +26,5 @@
     "iron-component-page": "PolymerElements/iron-component-page#~v1.1.0",
     "px-meta-buttons-design": "https://github.com/PredixDev/px-meta-buttons-design.git#~0.5.1",
     "px-starter-kit-design": "https://github.com/PredixDev/px-starter-kit-design.git#~0.4.0"
-  },
-  "resolutions": {
-    "px-theme": "~0.7.0",
-    "polymer": "^1.0.0"
   }
 }
