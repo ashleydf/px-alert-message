@@ -28,6 +28,11 @@ Element providing message notifications.
 -->
 <dom-module id="px-alert-message">
     <link rel="import" type="css" href="css/px-alert-message.css"/>
+    <style>
+      :host .alert-message {
+        @apply(--px-alert-message);
+      }
+    </style>
     <template>
         <div id="alert" class="alert-message flex flex--left flex--middle">
             <template is="dom-if" if="{{ _isNotMore }}">
