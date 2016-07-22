@@ -1,3 +1,11 @@
+v0.6.2
+==================
+* fix tests
+
+v0.6.1
+==================
+* Updated to new demo
+
 v0.6.0
 ==================
 * Upgrade to Polymer 1.5.0
