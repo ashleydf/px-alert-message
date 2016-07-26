@@ -1,3 +1,39 @@
+v0.6.3
+==================
+* updated gh-pages script to vulcanize demo
+
+v0.6.2
+==================
+* fix tests
+
+v0.6.1
+==================
+* Updated to new demo
+
+v0.6.0
+==================
+* Upgrade to Polymer 1.5.0
+
+v0.5.4
+==================
+* added oss_notice to bower ignore
+
+v0.5.3
+==================
+* added pull request test inside travis
+
+v0.5.2
+==================
+* added auto-github pages functionality
+
+v0.5.1
+==================
+* Modified line-height to fix a windows firefox bug
+
+v0.5.0
+==================
+* Upgrade to Polymer 1.4.0
+
 v0.4.0
 ==================
 * Added px-alert-message-hidden event when dismissing an alert
