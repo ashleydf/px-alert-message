@@ -37,7 +37,7 @@
     "tag": "v0.0.1",
     "commit": "f8237fa8cc003a9844fcf92dba0cb1cbbac5a4e7"
   },
-  "_source": "https://github.com/PredixDev/px-actionable-text-icons.git",
+  "_source": "https://github.com/predixdev/px-actionable-text-icons.git",
   "_target": "^0.0.1",
-  "_originalSource": "https://github.com/PredixDev/px-actionable-text-icons.git"
+  "_originalSource": "px-actionable-text-icons"
 }
