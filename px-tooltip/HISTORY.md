@@ -1,6 +1,22 @@
+v0.7.5
+=================
+* updated mega demo styles and bower px-demo-snippet to ^
+
+v0.7.4
+=================
+* added image to readme, removed watch, added view on github
+
+v0.7.3
+=================
+* updated gh-pages script to vulcanize demo
+
+v0.7.2
+=================
+* added mega demo
+
 v0.7.1
 =================
-* merge PR for long  word break 
+* merge PR for long  word break
 
 v0.7.0
 =================
